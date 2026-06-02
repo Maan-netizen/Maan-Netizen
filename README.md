@@ -6,9 +6,9 @@ Email Me 👉 ✉️ **manvardhantripathi12b.com** For Collaboration/Project or 
 - 🔭 **I’m currently working on:** User Authentication
 - 🌱 **I’m currently learning:** React, Gemini API
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:** manvardhantripathi12b@gmail.com
+
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manvardhantripathi2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manvardhan Tripathi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Manvardhan Tripathi Official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manvardhantripathi12b@gmail.com) 
 
